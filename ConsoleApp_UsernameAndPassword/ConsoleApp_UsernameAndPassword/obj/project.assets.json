@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c# .net\\HealthyLife\\NewConsoleApp\\NewConsoleApp.csproj",
-      "projectName": "NewConsoleApp",
-      "projectPath": "E:\\c# .net\\HealthyLife\\NewConsoleApp\\NewConsoleApp.csproj",
+      "projectUniqueName": "E:\\c# .net\\ConsoleApp_UsernameAndPassword\\ConsoleApp_UsernameAndPassword\\ConsoleApp_UsernameAndPassword.csproj",
+      "projectName": "ConsoleApp_UsernameAndPassword",
+      "projectPath": "E:\\c# .net\\ConsoleApp_UsernameAndPassword\\ConsoleApp_UsernameAndPassword\\ConsoleApp_UsernameAndPassword.csproj",
       "packagesPath": "C:\\Users\\ZAYD\\.nuget\\packages\\",
-      "outputPath": "E:\\c# .net\\HealthyLife\\NewConsoleApp\\obj\\",
+      "outputPath": "E:\\c# .net\\ConsoleApp_UsernameAndPassword\\ConsoleApp_UsernameAndPassword\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZAYD\\AppData\\Roaming\\NuGet\\NuGet.Config",
